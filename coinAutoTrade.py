@@ -2,8 +2,8 @@ import time
 import pykorbit
 import datetime
 
-access = "IJxXKDgD4pKVcfZiOSKcOLXtAtaW8mzClYcSG5KwYvvkM8cyIzXxJu342CuvY"
-secret = "2VZKlbmX95NabkOz2BhcDnLGwLCdpSGjFYxLWXXQszfmWoEFDulUrXL8uOzoU"
+access = "aa"
+secret = "aa"
 korbit = pykorbit.Korbit(access, secret )
 
 
